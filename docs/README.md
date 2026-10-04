@@ -61,7 +61,7 @@ Orders that arrive late average **2.57★** vs **4.31★** for early arrivals �
 | FQ1 | 8 "delivered" orders with no delivery timestamp | Documented; excluded from timing analysis |
 | FQ2 | 394 orders with multiple review rows | `COUNT(DISTINCT order_id)` applied |
 
-Full import challenges documented in [MySQL_Import_Challenges](/MySQL_Import_Challenges_Log.md).
+Full import challenges documented in [MySQL_Import_Challenges](MySQL_Import_Challenges_Log.md).
 
 ---
 
