@@ -84,7 +84,3 @@ Full import challenges documented in [MySQL_Import_Challenges](MySQL_Import_Chal
 *Data Analyst | SQL • Power BI • Business Discovery*
 
 ---
-
-## 📜 License
-
-MIT License — see [LICENSE](LICENSE)
